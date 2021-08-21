@@ -1,0 +1,15 @@
+.group-cell{
+	margin:50px 0px 0px 0px;
+}
+.group-cell1{
+	margin:100px 0px 20px 0px;
+}
+.rotate90{
+	transform:rotate(90deg);
+}
+.rotate270{
+	transform:rotate(270deg);
+}
+.j{
+	margin:80px -80px 70px -80px;
+}

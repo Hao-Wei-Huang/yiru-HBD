@@ -1,0 +1,83 @@
+body{	
+	line-hight:1;
+	font-size:small;
+	font-family:"Microsoft JhengHei",PMingLiU,sans-serif;
+	margin:0px;
+	color:#FF44AA;
+	background-color:#FFB7DD;
+}
+
+header{
+	text-align:center;
+	vertical-align:middle;
+	border-top-width:thick;
+	border-top-style:solid;
+	border-top-color:#FFF200;
+	background-color:#ffffff;
+}
+header img{
+	margin:10px;
+}
+nav {	
+	font-size:120%;
+	margin: 0px;
+	border-bottom:
+	border-top-width:thick;
+	border-top-style:solid;
+	border-top-color:#FFF200;
+	background: linear-gradient(#dfe9f3,#ffffff);
+	
+}
+nav ul {
+	list-style-type: none;
+	padding: 5px 0px 5px 0px;
+	margin:0px 0px 0px 12%;
+}
+nav ul li {
+	display: inline;
+	padding: 5px 10px;	
+}
+nav ul li a:link, nav ul li a:visited {
+	color: #114B4B;
+	border-bottom: none;
+	font-weight: bold;
+	text-decoration:none;
+
+/*
+	text-shadow: 1px 1px 3px #e2c2c2; 
+	text-transform: uppercase;
+*/
+}
+nav ul li:hover,nav ul li a:hover{
+	color:#ffffff;
+	background: linear-gradient(#d4fc79,#96e6a1);
+}
+.photo{
+	display:inline-block;
+}
+#group{
+	text-align:center;
+	vertical-align:middle;
+	font-size:120%;
+	font-weight:bold;
+}
+#group img{
+	margin:10px;
+}
+span{
+	font-size:120%;
+	color:#000000;
+}
+#special div img{
+	margin:50px 10px 10px 0px;
+}
+#s div img{
+	margin:100px 10px 10px 10px;
+}
+footer{
+	clear:both;
+	color:#000000;
+	text-align:center;
+	vertical-align:middle;
+	background-color:#DDDDDD;
+}
